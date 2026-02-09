@@ -20,7 +20,7 @@ I am a first-year PhD candidate at University of California Los Angeles and a me
 - Jan 2025: Graduated from Master's of Mathematical Finance and Financial Technology program at Boston University.
 
 
-## 📄 Selected Publications (full list on Publications page)
+## 📄 Selected Publications ([full list](https://scholar.google.com/citations?user=3craQtgAAAAJ&hl=en))
 
 <div class="pub-cards">
   <article class="pub-card">
