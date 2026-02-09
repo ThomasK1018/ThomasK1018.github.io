@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Tung Sum Thomas Kwok"
 description              : &description "PhD student at UCLA working on tabular reasonign and prediction via agentic AI and attention memory."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://thomask1018.github.io"
-baseurl                  : "/thomask.github.io"
+baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
