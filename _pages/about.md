@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at University of California Los Angeles and a member of the Trustworthy AI Lab advised by Professor Guang Cheng. My research interests lie on the large language models (`LLM's), world models and tabular data modeling. Happy to connect and discuss further! 
+I am a second-year PhD student at University of California Los Angeles and a member of the Trustworthy AI Lab advised by Professor Guang Cheng. My research interests lie on the large language models (LLMs), world models and tabular data modeling. Happy to connect and discuss further! 
 
 ## 📢 News
+- June 2026: Received the Most Promising Statistician Award from the UCLA Department of Statistics and Data Science.
 - Feb 2026: Paper accepted to the Pacific-Asia Conference on Knowledge Discovery and Data Mining
 - Jan 2026: Paper accepted to The ACM Web Conference 2026.
 - Jan 2026: VeritasFi won Best Paper at AAAI 2026 Workshop on Agentic AI in Financial Services.
@@ -25,15 +26,31 @@ I am a first-year PhD candidate at University of California Los Angeles and a me
 <div class="pub-cards">
   <article class="pub-card">
     <div class="pub-thumb">
-      <img src="/images/retab.png" alt="RE-Tab Illustration figure">
+      <img src="/images/ledflow.png" alt="LEDFlow figure">
       <span class="badge badge-preprint">Preprint</span>
     </div>
     <div class="pub-body">
-      <h3 class="pub-title">Enhancing TableQA through Verifiable Reasoning Trace Reward</h3>
-      <p class="pub-authors"><strong>Tung Sum Thomas Kwok*</strong>, Xinyu Wang*, Hengzhi He, Xiaofeng Lin, Peng Lu, Liheng Ma, Chunhe Wang, Ying Nian Wu, Lei Ding, Guang Cheng</p>
-      <p class="pub-highlight">Structured table reasoning with processed reward model supervision</p>
+      <h3 class="pub-title">LEDFlow: Introducing Entropy-Guided Generation Order into Uniform Discrete Flow</h3>
+      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Yidong Ouyang, Yingjia Wan, Ying Nian Wu, Zhijiang Guo, Oscar Leong</p>
+      <p class="pub-highlight">Training-free sampler that fixes low-entropy (reliable) token predictions first while letting uncertain positions keep evolving under uniform discrete flow</p>
       <div class="pub-links">
-        <a class="pill" href="https://arxiv.org/pdf/2601.22530">PDF</a>
+        <!-- TODO: replace with arXiv link once available -->
+        <span class="pill">arXiv coming soon</span>
+      </div>
+    </div>
+  </article>
+
+  <article class="pub-card">
+    <div class="pub-thumb">
+      <img src="/images/tabalign.png" alt="TabAlign figure">
+      <span class="badge badge-venue">ICML 2026 AI4Math Workshop</span>
+    </div>
+    <div class="pub-body">
+      <h3 class="pub-title">From Table to Cell: Attention for Better Reasoning with TabAlign</h3>
+      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Zeyong Zhang, Xinyu Wang, Chunhe Wang, Xiaofeng Lin, Hanwei Wu, Lei Ding, Guang Cheng, Zhijiang Guo</p>
+      <p class="pub-highlight">Diffusion-denoised reasoning plans paired with cell-level attention grounding for stepwise table reasoning</p>
+      <div class="pub-links">
+        <a class="pill" href="https://arxiv.org/pdf/2605.14465">PDF</a>
       </div>
     </div>
   </article>
@@ -59,7 +76,7 @@ I am a first-year PhD candidate at University of California Los Angeles and a me
       <span class="badge badge-venue">CIKM 2025</span>
     </div>
     <div class="pub-body">
-      <h3 class="pub-title">VeritasFi: Multi-tiered RAG for Multimodal Financial QA</h3>
+      <h3 class="pub-title">FinSage: A Multi-aspect RAG System for Financial Filings Question Answering</h3>
       <p class="pub-authors">Xinyu Wang, Jijun Chi, Zhenghan Tai, <strong>Tung Sum Thomas Kwok</strong>, et al.</p>
       <p class="pub-highlight">A multi-path sparse-dense retrieval system augmented with query expansion, metadata-aware semantic search and a domain-specialized re-ranking module fine-tuned via Direct Preference Optimization</p>
       <div class="pub-links">
@@ -91,6 +108,7 @@ I am a first-year PhD candidate at University of California Los Angeles and a me
 
 
 ## ✨ Honors & Awards
+- Most Promising Statistician Award, UCLA Statistics and Data Science (2026)
 - AAAI 2026 Workshop Best Paper Award (2026)
 - OpenAI Researcher Access Program Award (2025)
 - ICAIF 2024 Workshop Best Presentation Award (2024)
@@ -100,7 +118,7 @@ I am a first-year PhD candidate at University of California Los Angeles and a me
 
 
 ## 🌍 Academic Services
-- Program committee/reviewer: ICML 2026
+- Program committee/reviewer: ICML 2026, COLM 2026, NeurIPS 2026
 - Conference student volunteer: ICLR 2026
 - Panelist: ACM@UCLA 2025
 - Teaching: Guest lecturer for STATS161/261 (Winter 2025, Fall 2025), STATS163/263 (Winter 2026); course assistant/grader for STATS10, STATS163/263
