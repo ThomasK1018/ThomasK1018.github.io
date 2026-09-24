@@ -10,6 +10,7 @@ redirect_from:
 I am a second-year PhD student at University of California Los Angeles and a member of the Trustworthy AI Lab advised by Professor Guang Cheng. My research interests lie on the large language models (LLMs), world models and tabular data modeling. Happy to connect and discuss further! 
 
 ## 📢 News
+- Sep 2026: TabAlign accepted to NeurIPS 2026.
 - June 2026: Received the Most Promising Statistician Award from the UCLA Department of Statistics and Data Science.
 - Feb 2026: Paper accepted to the Pacific-Asia Conference on Knowledge Discovery and Data Mining
 - Jan 2026: Paper accepted to The ACM Web Conference 2026.
