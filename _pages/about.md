@@ -43,7 +43,7 @@ I am a second-year PhD student at University of California Los Angeles and a mem
   <article class="pub-card">
     <div class="pub-thumb">
       <img src="/images/tabalign.png" alt="TabAlign figure">
-      <span class="badge badge-venue">ICML 2026 AI4Math Workshop</span>
+      <span class="badge badge-venue">NeurIPS 2026</span>
     </div>
     <div class="pub-body">
       <h3 class="pub-title">From Table to Cell: Attention for Better Reasoning with TabAlign</h3>
