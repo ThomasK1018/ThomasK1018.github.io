@@ -10,8 +10,7 @@ redirect_from:
 I am a second-year PhD student at University of California Los Angeles and a member of the Trustworthy AI Lab advised by Professor Guang Cheng. My research interests lie on the large language models (LLMs), world models and tabular data modeling. Happy to connect and discuss further! 
 
 ## 📢 News
-- Sep 2026: TabWorld accepted to NeurIPS 2026.
-- Sep 2026: TabAlign accepted to NeurIPS 2026.
+- Sep 2026: 2 papers accepted to NeurIPS 2026.
 - June 2026: Received the Most Promising Statistician Award from the UCLA Department of Statistics and Data Science.
 - Feb 2026: Paper accepted to the Pacific-Asia Conference on Knowledge Discovery and Data Mining
 - Jan 2026: Paper accepted to The ACM Web Conference 2026.
@@ -26,22 +25,6 @@ I am a second-year PhD student at University of California Los Angeles and a mem
 ## 📄 Selected Publications ([full list](https://scholar.google.com/citations?user=3craQtgAAAAJ&hl=en))
 
 <div class="pub-cards">
-  <article class="pub-card">
-    <div class="pub-thumb">
-      <img src="/images/tabworld.png" alt="TabWorld figure">
-      <span class="badge badge-venue">NeurIPS 2026</span>
-    </div>
-    <div class="pub-body">
-      <h3 class="pub-title">TabWorld: A World-Modeling Foundation Model for Tabular Generation</h3>
-      <p class="pub-authors">Xiaofeng Lin, Chunhe Wang, <strong>Tung Sum Thomas Kwok</strong>, Guang Cheng</p>
-      <p class="pub-highlight">A generative tabular foundation model that learns a table-adaptive simulator, combining observational diffusion training with query-conditioned world-model supervision to predict responses to structural interventions</p>
-      <div class="pub-links">
-        <!-- TODO: add paper link once available -->
-        <span class="pill">Paper coming soon</span>
-      </div>
-    </div>
-  </article>
-
   <article class="pub-card">
     <div class="pub-thumb">
       <img src="/images/ledflow.png" alt="LEDFlow figure">
@@ -69,6 +52,22 @@ I am a second-year PhD student at University of California Los Angeles and a mem
       <p class="pub-highlight">Diffusion-denoised reasoning plans paired with cell-level attention grounding for stepwise table reasoning</p>
       <div class="pub-links">
         <a class="pill" href="https://arxiv.org/pdf/2605.14465">PDF</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="pub-card">
+    <div class="pub-thumb">
+      <img src="/images/tabworld.png" alt="TabWorld figure">
+      <span class="badge badge-venue">NeurIPS 2026</span>
+    </div>
+    <div class="pub-body">
+      <h3 class="pub-title">TabWorld: A World-Modeling Foundation Model for Tabular Generation</h3>
+      <p class="pub-authors">Xiaofeng Lin, Chunhe Wang, <strong>Tung Sum Thomas Kwok</strong>, Guang Cheng</p>
+      <p class="pub-highlight">A generative tabular foundation model that learns a table-adaptive simulator, combining observational diffusion training with query-conditioned world-model supervision to predict responses to structural interventions</p>
+      <div class="pub-links">
+        <!-- TODO: add paper link once available -->
+        <span class="pill">Paper coming soon</span>
       </div>
     </div>
   </article>
