@@ -35,8 +35,7 @@ I am a second-year PhD student at University of California Los Angeles and a mem
       <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Yidong Ouyang, Yingjia Wan, Ying Nian Wu, Zhijiang Guo, Oscar Leong</p>
       <p class="pub-highlight">Training-free sampler that fixes low-entropy (reliable) token predictions first while letting uncertain positions keep evolving under uniform discrete flow</p>
       <div class="pub-links">
-        <!-- TODO: replace with arXiv link once available -->
-        <span class="pill">arXiv coming soon</span>
+        <a class="pill" href="https://arxiv.org/pdf/2609.25131">PDF</a>
       </div>
     </div>
   </article>
