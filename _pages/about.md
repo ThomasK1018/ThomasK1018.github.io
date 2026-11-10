@@ -43,22 +43,6 @@ I am a second-year PhD student at University of California Los Angeles and a mem
 
   <article class="pub-card">
     <div class="pub-thumb">
-      <img src="/images/datatrace.png" alt="DataTrace figure">
-      <span class="badge badge-venue">KDD 2027</span>
-    </div>
-    <div class="pub-body">
-      <h3 class="pub-title">DataTrace: Benchmarking Data Agents for Evidence-Grounded Root-Cause Localization</h3>
-      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Xiaotian Lin, Yuyu Luo</p>
-      <p class="pub-highlight">Fault injection over typed graphs of database artifacts yields 83 runnable environments that score a root-cause diagnosis and the evidence supporting it separately, revealing that 18% of correct answers are ungrounded</p>
-      <div class="pub-links">
-        <!-- TODO: add paper link once available -->
-        <span class="pill">Paper coming soon</span>
-      </div>
-    </div>
-  </article>
-
-  <article class="pub-card">
-    <div class="pub-thumb">
       <img src="/images/tabalign.png" alt="TabAlign figure">
       <span class="badge badge-venue">NeurIPS 2026</span>
     </div>
@@ -81,6 +65,22 @@ I am a second-year PhD student at University of California Los Angeles and a mem
       <h3 class="pub-title">TabWorld: A World-Modeling Foundation Model for Tabular Generation</h3>
       <p class="pub-authors">Xiaofeng Lin, Chunhe Wang, <strong>Tung Sum Thomas Kwok</strong>, Guang Cheng</p>
       <p class="pub-highlight">A generative tabular foundation model that learns a table-adaptive simulator, combining observational diffusion training with query-conditioned world-model supervision to predict responses to structural interventions</p>
+      <div class="pub-links">
+        <!-- TODO: add paper link once available -->
+        <span class="pill">Paper coming soon</span>
+      </div>
+    </div>
+  </article>
+
+  <article class="pub-card">
+    <div class="pub-thumb">
+      <img src="/images/datatrace.png" alt="DataTrace figure">
+      <span class="badge badge-venue">KDD 2027</span>
+    </div>
+    <div class="pub-body">
+      <h3 class="pub-title">DataTrace: Benchmarking Data Agents for Evidence-Grounded Root-Cause Localization</h3>
+      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Xiaotian Lin, Yuyu Luo</p>
+      <p class="pub-highlight">Fault injection over typed graphs of database artifacts yields 83 runnable environments that score a root-cause diagnosis and the evidence supporting it separately, revealing that 18% of correct answers are ungrounded</p>
       <div class="pub-links">
         <!-- TODO: add paper link once available -->
         <span class="pill">Paper coming soon</span>
