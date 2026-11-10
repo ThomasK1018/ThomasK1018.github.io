@@ -10,6 +10,7 @@ redirect_from:
 I am a second-year PhD student at University of California Los Angeles and a member of the Trustworthy AI Lab advised by Professor Guang Cheng. My research interests lie on the large language models (LLMs), world models and tabular data modeling. Happy to connect and discuss further! 
 
 ## 📢 News
+- Nov 2026: Paper accepted to the KDD 2027 Datasets and Benchmarks Track.
 - Sep 2026: 2 papers accepted to NeurIPS 2026.
 - June 2026: Received the Most Promising Statistician Award from the UCLA Department of Statistics and Data Science.
 - Feb 2026: Paper accepted to the Pacific-Asia Conference on Knowledge Discovery and Data Mining
@@ -36,6 +37,22 @@ I am a second-year PhD student at University of California Los Angeles and a mem
       <p class="pub-highlight">Training-free sampler that fixes low-entropy (reliable) token predictions first while letting uncertain positions keep evolving under uniform discrete flow</p>
       <div class="pub-links">
         <a class="pill" href="https://arxiv.org/pdf/2609.25131">PDF</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="pub-card">
+    <div class="pub-thumb">
+      <img src="/images/datatrace.png" alt="DataTrace figure">
+      <span class="badge badge-venue">KDD 2027</span>
+    </div>
+    <div class="pub-body">
+      <h3 class="pub-title">DataTrace: Benchmarking Data Agents for Evidence-Grounded Root-Cause Localization</h3>
+      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Xiaotian Lin, Yuyu Luo</p>
+      <p class="pub-highlight">Fault injection over typed graphs of database artifacts yields 83 runnable environments that score a root-cause diagnosis and the evidence supporting it separately, revealing that 18% of correct answers are ungrounded</p>
+      <div class="pub-links">
+        <!-- TODO: add paper link once available -->
+        <span class="pill">Paper coming soon</span>
       </div>
     </div>
   </article>
