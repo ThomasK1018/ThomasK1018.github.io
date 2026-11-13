@@ -10,6 +10,7 @@ redirect_from:
 I am a second-year PhD student at University of California Los Angeles and a member of the Trustworthy AI Lab advised by Professor Guang Cheng. My research interests lie on the large language models (LLMs), world models and tabular data modeling. Happy to connect and discuss further! 
 
 ## 📢 News
+- Nov 2026: 2 papers accepted to EACL 2027.
 - Nov 2026: Paper accepted to the KDD 2027 Datasets and Benchmarks Track.
 - Sep 2026: 2 papers accepted to NeurIPS 2026.
 - June 2026: Received the Most Promising Statistician Award from the UCLA Department of Statistics and Data Science.
