@@ -91,6 +91,37 @@ I am a second-year PhD student at University of California Los Angeles and a mem
 
   <article class="pub-card">
     <div class="pub-thumb">
+      <img src="/images/tabqaworld.png" alt="TabQAWorld figure">
+      <span class="badge badge-venue">EACL 2027</span>
+    </div>
+    <div class="pub-body">
+      <h3 class="pub-title">TabQAWorld: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering</h3>
+      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, Xinyu Wang, Xiaofeng Lin, Peng Lu, Chunhe Wang, Changlun Li, Hanwei Wu, Nan Tang, Elisa Kreiss, Guang Cheng</p>
+      <p class="pub-highlight">A training-free policy that chooses a textual or visual view of the evolving table at each turn and checks predicted state metadata before batching actions, raising accuracy by 4.87% while cutting latency by 33.35%</p>
+      <div class="pub-links">
+        <a class="pill" href="https://arxiv.org/pdf/2604.03393">PDF</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="pub-card">
+    <div class="pub-thumb">
+      <img src="/images/fininteract.png" alt="FinInteract figure">
+      <span class="badge badge-venue">EACL 2027</span>
+    </div>
+    <div class="pub-body">
+      <h3 class="pub-title">FinInteract: Evaluating Whether LLM Search Agents Resolve Ambiguous Financial Questions</h3>
+      <p class="pub-authors"><strong>Tung Sum Thomas Kwok</strong>, et al.</p>
+      <p class="pub-highlight">A bilingual benchmark of ambiguous filing questions, each with a hidden disambiguating context, showing that agents match the intended interpretation on only 28.9% of questions yet answer 93 to 95% correctly once they clarify</p>
+      <div class="pub-links">
+        <!-- TODO: add paper link once available -->
+        <span class="pill">Paper coming soon</span>
+      </div>
+    </div>
+  </article>
+
+  <article class="pub-card">
+    <div class="pub-thumb">
       <img src="/images/VeritasFi.png" alt="TableQA figure">
       <span class="badge badge-venue">WWW 2026</span>
     </div>
